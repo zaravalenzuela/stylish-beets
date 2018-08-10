@@ -10,7 +10,7 @@ deliverables: "1 HTML file, 1 CSS file, images"
 
 - *Fork this repository.*
 - Copy the `index.html` and the `images` folder from last week’s beets code into this repo.
-- Attach a new CSS file, `main.css`, and style colors and typography of the the beets website.
+- Attach a new CSS file, `main.css`, and style colors and typography of the beets website.
 - Resize your browser window so it isn’t as wide.
 - Don’t worry too much about the visual spacing in the design—we’ll look at that next week.
 - **Pay careful attention to all the small details that are changed.**
