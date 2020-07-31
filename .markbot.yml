@@ -1,5 +1,5 @@
 repo: "stylish-beets"
-canvasCourse: "web-dev-1"
+canvasCourse: "web-design-1"
 
 inherit:
   - naming-restrict-live
@@ -51,10 +51,10 @@ html:
 css:
   - path: "css/main.css"
     has:
-      - ['html']
-      - ['img', 'width', '100%']
-      - ['a', 'text-decoration']
-      - ['a:hover', 'text-decoration']
+      - ["html"]
+      - ["img", "width", "100%"]
+      - ["a", "text-decoration"]
+      - ["a:hover", "text-decoration"]
     search:
       - "PT Serif"
       - "PT Sans"
@@ -67,5 +67,5 @@ css:
       - "list-style-type"
 
 screenshots:
-  - path: 'index.html'
+  - path: "index.html"
     sizes: [608]
