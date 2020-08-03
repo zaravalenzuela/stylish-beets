@@ -6,6 +6,7 @@ inherit:
   - git-4
   - html
   - css
+  - border-box
   - nav-hover
 
 html:
