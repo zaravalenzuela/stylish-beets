@@ -18,9 +18,11 @@ h1, h2, h3, h4 {
   font-family: 'PT Sans', sans-serif;
 }
 
-nav a {
+li {
   color: #8f2440
   font-family: 'PT Sans', sans-serif;
+  list-style-type: none;
+
 }
 
 nav a:hover {
