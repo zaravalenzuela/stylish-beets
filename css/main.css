@@ -1,31 +1,100 @@
 html {
-  background-color: #c9b5ab;
   font-family: 'PT Serif', serif;
   line-height: 1.5;
   box-sizing: border-box;
+  background-color: #c9b5ab;
+  color: #222;
 }
 
 *, *::before, * ::after {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
 img {
   width: 100%;
 }
 
-h1, h2, h3, h4 {
+a {
+  color: #8f2440;
+  text-decoration: none;
+}
+
+a,
+a:hover {
+  color: #8f2440
+  text-decoration: none;
+}
+
+h1, h2 {
   color: #3f1622;
   font-family: 'PT Sans', sans-serif;
 }
 
-a {
-  color: #8f2440
+h1 {
+  font-size: 1.5rem;
+}
+
+nav {
   font-family: 'PT Sans', sans-serif;
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+nav ol {
   list-style-type: none;
 }
 
-a:hover {
-  color: #3f1622;
-  font-family: 'PT Sans', sans-serif;
-  text-decoration: underline;
+figure {
+  text-align: center;
+}
+
+figcaption {
+  font-style: italic;
+}
+
+main figure + p {
+  font-weight: bold;
+  font-size: 1.125rem;
+}
+
+blockquote {
+  font-size: .8rem;
+}
+
+blockquote p {
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+blockquote strong {
+  font-weight: normal;
+}
+
+.serving {
+  font-style: italic;
+}
+
+dt {
+  font-weight: bold;
+}
+
+.varieties {
+  list-style-type: lower-greek;
+}
+
+aside ul {
+  font-size: .8rem;
+  list-style-type: circle;
+}
+
+small {
+  font-size: .8rem
+}
+
+footer {
+  font-size: .8rem
 }
