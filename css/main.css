@@ -13,12 +13,7 @@ img {
   width: 100%;
 }
 
-h1 < i {
-  color: #3f1622;
-  font-family: 'PT Sans', bold;
-}
-
-h2, h3, h4 {
+h1, h2, h3, h4 {
   color: #3f1622;
   font-family: 'PT Sans', sans-serif;
 }
