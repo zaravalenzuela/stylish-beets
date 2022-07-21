@@ -1,5 +1,5 @@
 html {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   line-height: 1.5;
   box-sizing: border-box;
   background-color: #c9b5ab;
@@ -23,7 +23,6 @@ a {
   text-decoration: none;
 }
 
-a,
 a:hover {
   color: #8f2440;
   text-decoration: none;
@@ -31,7 +30,7 @@ a:hover {
 
 h1, h2 {
   color: #3f1622;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
 }
 
 h1 {
@@ -39,7 +38,7 @@ h1 {
 }
 
 nav {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-size: 1.125rem;
   font-weight: bold;
 }
@@ -92,9 +91,9 @@ aside ul {
 }
 
 small {
-  font-size: .8rem
+  font-size: .8rem;
 }
 
 footer {
-  font-size: .8rem
+  font-size: .8rem;
 }
