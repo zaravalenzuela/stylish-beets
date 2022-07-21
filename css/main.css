@@ -1,0 +1,24 @@
+html {
+  background-color: #c9b5ab;
+  font-family: 'PT Serif', serif;
+  line-height: 1.5;
+  box-sizing: border-box;
+}
+
+*, *::before, * ::after {
+  box-sizing: inherit;
+}
+
+img {
+  width: 100%;
+}
+
+h1 > i {
+  color: #8f2440;
+  font-family: 'PT Sans', bold;
+}
+
+h2, h3, h4 {
+  color: #8f2440;
+  font-family: 'PT Sans', sans-serif;
+}
