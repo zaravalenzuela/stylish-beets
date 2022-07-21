@@ -18,14 +18,13 @@ h1, h2, h3, h4 {
   font-family: 'PT Sans', sans-serif;
 }
 
-nav li {
+a {
   color: #8f2440
   font-family: 'PT Sans', sans-serif;
   list-style-type: none;
-
 }
 
-nav a:hover {
+a:hover {
   color: #3f1622;
   font-family: 'PT Sans', sans-serif;
   text-decoration: underline;
